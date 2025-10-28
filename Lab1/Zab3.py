@@ -17,3 +17,4 @@ elif wiek >= 18:
     print("Cena biletowy: 20 ")
 
 
+
