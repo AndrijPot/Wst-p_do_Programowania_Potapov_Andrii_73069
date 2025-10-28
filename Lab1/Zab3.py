@@ -15,6 +15,3 @@ elif wiek >= 18 and stud == True:
     print("Cena biletowy: ", 0.75 * 20)
 elif wiek >= 18:
     print("Cena biletowy: 20 ")
-
-
-
