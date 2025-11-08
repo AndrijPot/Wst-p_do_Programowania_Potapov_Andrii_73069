@@ -7,7 +7,7 @@ for i in range(len(imie)):
     print(f"index: {i}, imie: {imie[i]}")
 
 # A ver 1
-print((sorted(imie)))
+print(sorted(imie))
 # ver 2
 posortowane_imie = sorted(imie)
 print(posortowane_imie)
